@@ -1,5 +1,7 @@
 # CacheOrNoCash
 
+![](https://github.com/LorinczAdrien/CacheOrNoCash/blob/master/Images/game_logo.png)
+
 ## Description
 
 - CacheOrNoCash is a simple delivery game that was made to showcase my [splay tree](https://en.wikipedia.org/wiki/Splay_tree) implementation using the [SFML library](https://www.sfml-dev.org/).
